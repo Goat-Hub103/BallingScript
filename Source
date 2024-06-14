@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Adopt-Me-Scripts/AdoptmeScript/main/AdoptmeScript/P688AV9-adopt-me.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Adopt-Me-Scripts/AdoptmeScript/main/AdoptmeScript/Z4K7V7B-adopt-me.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AbHackerGroup/Adoptme-BallingScriptsVer/main/Adoptme-Mainhub-Ballingscripts"))()
